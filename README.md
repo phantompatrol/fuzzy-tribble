@@ -32,7 +32,7 @@ Make sure to reopen or reload Vim. Happy coding!
 
 ## Environment
 This configuration is specific to OS X running [Iterm2](http://iterm2.com/).
-Compatability issues may arise on other operating systems and terminal emulators.
+Compatibility issues may arise on other operating systems and terminal emulators.
 
 ## Gotcha
 This configuration specifically disables the arrow key navigation in normal mode.
