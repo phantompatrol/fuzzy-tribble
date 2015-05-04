@@ -16,7 +16,7 @@ Vim is beautiful. Keep it that way. That aside...
 * [vim-pathogen](https://github.com/tpope/vim-pathogen)
 * [ctrlp](https://github.com/kien/ctrlp.vim) Fuzzy finder and more
 * [indentLine](https://github.com/Yggdroot/indentLine) Displays vertical lines for indentaion
-* [tabline](https://github.com/mkitt/tabline.vim) Permits easily configurable tab labels
+* [tabline](https://github.com/mkitt/tabline.vim) Succinct tab labels
 * [vim-colors-solarized](https://github.com/altercation/vim-colors-solarized) A darn good color scheme
 
 ## Installation
