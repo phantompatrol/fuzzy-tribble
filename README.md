@@ -24,6 +24,7 @@ Pathogen, ctrlp, indentLine, and vim-colors-solarizered are referenced the
 configuration files, so you will need to add those plugins or delete the
 associated lines. Following that, clone this repository and symlink the two
 configuration files in this repository to your home directory.
+
     ln -s /path/to/this/repo/.vimrc /path/to/your/home/dir/.vimrc
     ln -s /path/to/this/repo/.gvimrc /path/to/your/home/dir/.gvimrc
 
