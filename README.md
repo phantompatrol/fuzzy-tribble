@@ -29,3 +29,7 @@ configuration files in this repository to your home directory.
     ln -s /path/to/this/repo/.gvimrc /path/to/your/home/dir/.gvimrc
 
 Make sure to reopen or reload Vim. Happy coding!
+
+## Gotcha
+This configuration specifically disables the arrow key navigation in normal mode.
+Try it, you might like it.

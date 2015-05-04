@@ -1,6 +1,6 @@
 call pathogen#infect()
 
-" Punish this asshole
+" Disable arrow key navigation
 noremap <Up> <NOP>
 noremap <Down> <NOP>
 noremap <Left> <NOP>
