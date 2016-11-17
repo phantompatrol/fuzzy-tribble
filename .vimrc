@@ -1,5 +1,8 @@
 call pathogen#infect()
 
+" basic .es6 highlighting
+autocmd BufRead,BufNewFile *.es6 setfiletype javascript
+
 " Disable arrow key navigation
 noremap <Up> <NOP>
 noremap <Down> <NOP>
