@@ -61,3 +61,6 @@ set smartcase                       " ... unless they contain at least one capit
 
 set path=$PWD/**
 set runtimepath^=~/.vim/bundle/ctrlp.vim
+
+:imap jk <Esc>
+:imap kj <Esc>
