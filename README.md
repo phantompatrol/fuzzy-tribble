@@ -36,4 +36,4 @@ Compatibility issues may arise on other operating systems and terminal emulators
 
 ## Gotcha
 This configuration specifically disables the arrow key navigation in normal mode.
-Try it, you might like it.
+Try it, you might like it
