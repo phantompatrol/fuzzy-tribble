@@ -35,7 +35,7 @@ set ruler
 set list!                           " Show whitespace char
 set listchars=tab:▸\ ,trail:·,eol:¬ " Show whilespace chars char as this tabby symbol here:
 let g:indentLine_char = '┆'
-set colorcolumn=80                  " Set a 80 char column line
+set colorcolumn=80,120              " Set a 80 and 120 char column line
 set guifont=Inconsolata:h14         " Inconsolata FTW
 set guioptions-=r                   " remove right scroll bar
 let g:vim_json_syntax_conceal = 0   " do not hide double quotes
