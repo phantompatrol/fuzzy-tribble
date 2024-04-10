@@ -8,9 +8,6 @@ noremap <Left> <NOP>
 noremap <Right> <NOP>
 "set mouse=a
 
-"" Show hidden files in ctrlp
-let g:ctrlp_show_hidden = 1
-
 "" Remove excess whitespace on save
 autocmd BufWritePre * :%s/\s\+$//ge
 
@@ -58,7 +55,6 @@ set ignorecase                      " searches are case insensitive...
 set smartcase                       " ... unless they contain at least one capital letter
 
 set path=$PWD/**
-set runtimepath^=~/.vim/bundle/ctrlp.vim
 
 :imap jk <Esc>
 :imap kj <Esc>
