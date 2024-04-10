@@ -1,5 +1,3 @@
-call pathogen#infect()
-
 " basic .es6 highlighting
 autocmd BufRead,BufNewFile *.es6 setfiletype javascript
 
